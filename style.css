@@ -1,0 +1,36 @@
+h1 {
+    text-align: left;
+    font-family: "Trebuchet MS", cursive;
+    margin: 30px;
+    font-size: xx-large;
+}
+
+img {
+    width: 30%;
+    margin: 10px 20px;
+}
+
+.spaghetti {
+    margin: 10px 20px;
+    width: 20%;
+}
+.pho {
+    margin: 10px 20px;
+    width: 20%;
+}
+
+.paella {
+    margin: 10px 20px;
+    width: 20%;
+}
+
+.pavlova {
+    margin: 10px 20px;
+    width: 20%;
+}
+
+
+h2 {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
